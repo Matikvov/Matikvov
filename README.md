@@ -1,8 +1,7 @@
 <html>
-    <b><title>Привітання</title></b>
       <body>
     <header style="background-color:green">
-     <p style="font-size:20px;text-align:center;font-size:50px;color:black">З новим роком</p>
+     <b><p style="font-size:20px;text-align:center;font-size:50px;color:black">З новим роком</p></b>
     <img src="https://exo.in.ua/images/news/2011/12/new-18427-2011-12-08.jpg" height="550px">
     </header>
     <main style="background-color:red">
